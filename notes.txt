@@ -1,0 +1,16 @@
+To do... xd
+ 
+temas:
+
+Propiedades numeros pseudoaleatorios
+	- Complejidad computacional
+	- Uniformidad
+	- No correlación serial
+	
+Tipos de numeros pseudoaleatorios
+
+Algoritmos de generación clasicos/tradicionales
+	- cuadrados medios
+	- congruencia lineal
+	- congruencia aditiva
+	- congruencia multiplicativa
