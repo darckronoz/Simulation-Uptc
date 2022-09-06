@@ -10,6 +10,7 @@ hey
 ## To Do
 ---------------------
 ### To do
+- [ ] algortimos de generación en JS
 - [ ] Que es una convolución de numeros pseudoaleatorios
 - [ ] intervalos en estadistica
 - [ ] tablas de datos para distribuciones
