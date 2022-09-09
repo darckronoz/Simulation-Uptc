@@ -14,3 +14,17 @@ Algoritmos de generación clasicos/tradicionales
 	- congruencia lineal
 	- congruencia aditiva
 	- congruencia multiplicativa
+
+Se vió la primera prueba para probar los numeros
+pseudo aleatorios
+
+	chi cuadrado
+	se utilizó la tabla chi cuadrado y se vieron las diferentes 
+	formulas para hallar los intervalos y a partir de aqui obtener la frecuencia
+	y se compara con la frecuencia esperada a partir de esto se obtiene la diferencia
+	y se suma, con esto tenemos el error obtenido y este tiene que ser menor 
+	al obtenido en la tabla de chi cuadrado
+	en esta tabla este valor se ubica con el margen de error y con el grado de libertad
+	
+	SE dijo que durante el curso se va a trabajar con margen de error del 5% 0.05.
+
