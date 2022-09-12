@@ -36,3 +36,13 @@ pseudo aleatorios
 	z, alpha, limites para crear el intervalo mediante el cual se van a verificar los datos.
 	y se determinó que si la media de los datos esta dentro del intervalo obtenido, entonces
 	se dice que cumplió la prueba.
+
+	prueba de varianzas
+	se definieron las mismas variables de la prueba anterior, en adición se neceista la varianza
+	y chi cuadrado para alpha/2 y para 1 - alpha/2, con estos anteriores se hallan los limites
+	en esta prueba el intervalo es decreciente, por lo que el limite inferior es mayor que el
+	limite superior, y se dice que los datos pasaron la prueba si la varianza esta dentro de 
+	este limite.
+	
+	antes de realizar la prueba de varianzas el conjunto de datos debe pasar la prueba de medias.
+	estas dos pruebas son para Ri y son para probar la incomprensibilidad computacional.
