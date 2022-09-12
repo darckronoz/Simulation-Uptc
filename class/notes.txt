@@ -28,3 +28,11 @@ pseudo aleatorios
 	
 	SE dijo que durante el curso se va a trabajar con margen de error del 5% 0.05.
 
+Se vió la segunda prueba para probar los numeros 
+pseudo aleatorios
+	
+	Prueba de medias:
+	se definieron las variables necesarias para realizar esta prueba, numero de datos, promedio
+	z, alpha, limites para crear el intervalo mediante el cual se van a verificar los datos.
+	y se determinó que si la media de los datos esta dentro del intervalo obtenido, entonces
+	se dice que cumplió la prueba.
