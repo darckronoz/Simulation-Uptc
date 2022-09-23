@@ -46,3 +46,10 @@ pseudo aleatorios
 	
 	antes de realizar la prueba de varianzas el conjunto de datos debe pasar la prueba de medias.
 	estas dos pruebas son para Ri y son para probar la incomprensibilidad computacional.
+
+Volví despues de tanto tiempo xd.
+
+clase de montecarlo
+
+se hablaron de los pros, los contras, y los componentes para utilizar el metodo montecarlo.
+queda pendiente llenar el archivo con las clases anteriores.
