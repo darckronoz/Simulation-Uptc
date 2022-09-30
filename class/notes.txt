@@ -53,3 +53,14 @@ clase de montecarlo
 
 se hablaron de los pros, los contras, y los componentes para utilizar el metodo montecarlo.
 queda pendiente llenar el archivo con las clases anteriores.
+
+Random walk
+
+Tipos de simulaciones
+	Continuas.
+	Discretas.
+Maneras de realizar una simulación
+	Estatica.
+	Dinamica.
+	Determinista.
+	Estocastica.
