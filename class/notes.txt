@@ -64,3 +64,10 @@ Maneras de realizar una simulación
 	Dinamica.
 	Determinista.
 	Estocastica.
+
+Clase MARKOV
+
+se habló de que es un proceso de markov, que es la propiedad de markov y cual es la probabilidad de transición de estado
+y porque se llaman así y que deben cumplir para ser estas.
+
+
