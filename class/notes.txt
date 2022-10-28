@@ -70,4 +70,103 @@ Clase MARKOV
 se habló de que es un proceso de markov, que es la propiedad de markov y cual es la probabilidad de transición de estado
 y porque se llaman así y que deben cumplir para ser estas.
 
+Se solicitó realizar un ejercicio de probabilidad de estados.
+
+con markov la idea es llegar a la probabilidad de cada uno de los estados
+
+todas las probabilidades que salgan de un estado deben dar 1
+porque cada estado es condicionante. *siempre y cuando el condicionante sea el mismo
+la suma de las probabilidades de un condicionante debe ser igual a 1*
+
+se me terimnaron los datos y ahora me toca tomar notas unicamente aqui xd.
+
+y lo demas en el cuaderno
+
+notese (en el cuaderno) que las probabilidades que salaen de cada estado al sumarlas
+da 1.
+
+probabilidad de estado estable / probabilidad estacionarias en el tiempo
+
+Se denomina calculo de las probabilidades de estado estable 
+y se denotan por la letra pi en mayuscula.
+
+se calcucula la cantidad de probabilidades de estado segun la cantidad de estados.
+
+en el caso de seco y humedo tenemos 2 PI0 y PI1
+
+para calcular la probabilidad de un día seco
+
+PI0 = P00*PI0 + PI10*PI1
+
+suma de las probabilidades condicionales que generan ese evento.
+en este caso 0,8 y 0,6.
+
+probabilidad de un día humedo
+
+PI1 = P01*PI0 + P11*PI1
+
+suma de los condicionales que generan ese evento 
+en este caso 0,2 y 0,4.
+
+se añade una ecuacion de restricción a las ecuaciones obtenidas la cual se añade siempre
+
+1 = PI0 + PI1 (ver cuaderno)
+
+
+__________________________________________________________________________________________________
+
+Segundo corte
+
+explicación taller segundo 50
+
+un restaurante
+se simulará la cocina, importante cada cocinero tiene habilidades especiales
+y el congelador es una cola
+ya que es unicamente un congelador para los 3 cocineros
+
+Se simula la caja
+de aqui es importante los pagos
+en efectivo se cancela en la caja
+y por tarjeta o transancción se paga en la mesa 
+y el cajero debe levantarse de la caja a recibir la transacción por tarjeta o a banco
+si el cajero se levanta y hay fila para pagar en efectivo entonces la fila deberá esperar a que el cajero vuelva
+conseguir los tiempos que se demoran las cajas 
+
+Se simulan las mesas
+20 mesas de 5 puestos exactamente iguales
+todo lo que esta en rojo se va a pedir en la sustentación.
+problema de minimización: 
+
+Se siumilan las meseros
+un mesero puede estar tomando una orden por lo que estará ocupado y no podrá estar limpiando mesas.
+menaje: los cuchillos tenedores, cubiertos.
+
+
+Se simulan los platos.
+conseguir los platos nosotros mismos.
+de aqui tenemos que conseguir los tiempos, los ingredientes y el tiempo de preparación.
+
+
+Se simulan los clientes.
+debemos ir a un restaurante y medir los tiempos.
+recordar como generar una distribución. generar la curva de los datos.
+el cliente debe tener una capacidad de consumo.
+pago único: una persona paga todo.
+pago americano: cada quien paga su cuenta.
+pago dividido: sumar y dividir.
+
+Se simulan 15 semanas con 10 horas de servicios diarias 
+10 horas por 7 días .
+
+la idea es desarrollar un modelo que logre resolver este problema.
+y realizar la optimización.
+
+tener el modelo ya hecho para dentro de un mes. 
+
+
+
+
+leer sobre muestras y poblaciones.
+
+
 
